@@ -1,4 +1,7 @@
 # Mental Health in Tech — Análisis del impacto de la salud mental en el entorno laboral
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) [Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
 
 Proyecto académico desarrollado en el **Bootcamp de Data Analyst & IA de Adalab**.
 
