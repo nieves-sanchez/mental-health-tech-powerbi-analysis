@@ -3,10 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
+
 **📌 Mi contribución en este proyecto**  
 Me encargué del EDA y limpieza del dataset en Python (`notebooks/01_eda_limpieza_osmi.ipynb`) y del diseño y desarrollo de los dashboards de Power BI: Impacto de la salud mental en el trabajo, Perfiles de empleados según impacto e Impacto y entorno laboral y los insights del dashboard de Conclusiones.
----
 
+---
 Proyecto académico desarrollado en el **Bootcamp de Data Analyst & IA de Adalab**.
 
 Este proyecto analiza la relación entre la **salud mental y el entorno laboral en el sector tecnológico**, utilizando datos de la encuesta **OSMI Mental Health in Tech Survey**.  
