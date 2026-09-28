@@ -8,7 +8,19 @@
 Me encargué del EDA y limpieza del dataset en Python (`notebooks/01_eda_limpieza_osmi.ipynb`) y del diseño y desarrollo de los dashboards de Power BI: Impacto de la salud mental en el trabajo, Perfiles de empleados según impacto e Impacto y entorno laboral y los insights del dashboard de Conclusiones.
 
 ---
-Proyecto académico desarrollado en el **Bootcamp de Data Analyst & IA de Adalab**.
+
+## Resumen del proyecto
+
+- **Pregunta:** ¿cómo afecta la salud mental al trabajo en el sector tecnológico y qué apoyo ofrecen las empresas?
+- **Datos:** encuesta [OSMI Mental Health in Tech](https://osmihelp.org/research) de 2014 (1.259 respuestas; 1.246 tras la limpieza).
+- **Equipo:** 2 personas: Ana María Castro y yo, al 50 %.
+- **Hallazgos:** solo 41 de 1.246 personas (3,3 %) hablarían de salud mental en una entrevista de trabajo; el 37,9 % tiene cobertura de salud mental en su empresa, pero solo el 18,1 % cuenta con un programa de bienestar.
+- **Limitaciones:** encuesta voluntaria y autodeclarada, no representativa del sector.
+- **Cómo verlo:** capturas más abajo; el archivo `.pbix` se abre con Power BI Desktop.
+
+---
+
+Proyecto académico desarrollado en el **Bootcamp de Data Analytics & IA de Adalab**.
 
 Este proyecto analiza la relación entre la **salud mental y el entorno laboral en el sector tecnológico**, utilizando datos de la encuesta **OSMI Mental Health in Tech Survey**.  
 
@@ -22,6 +34,7 @@ El objetivo es explorar patrones, identificar factores que influyen en el bienes
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github&logoColor=white)](https://github.com/nieves-sanchez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nieves-sanchez-data)
+[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?logo=gmail&logoColor=white)](mailto:nsanchezgarcia86@gmail.com)
 
 **Ana María Castro**  
 
@@ -252,11 +265,12 @@ Incluye análisis sobre:
 ![Conclusiones](assets/conclusiones.png)
 
 Dashboard final que resume los **principales hallazgos del análisis**, destacando los aspectos más relevantes identificados en el estudio.
+
 ---
 
 ## Contexto académico
 
-Este proyecto forma parte del **Bootcamp de Data Analyst & IA de Adalab**, donde se aplican conocimientos de:
+Este proyecto forma parte del **Bootcamp de Data Analytics & IA de Adalab**, donde se aplican conocimientos de:
 
 - análisis de datos
 - limpieza y preparación de datasets
